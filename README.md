@@ -5,7 +5,7 @@ This is a presentation website for AsteriaTech's Smart Drone Security System pro
 
 ## 🌐 Live Demo
 The website is live and can be accessed at:
-[AsteriaTech Presentation](https://harmonyhavenappserver.erdemserhat.com/static/presentation/index.html)
+[AsteriaTech Presentation](https://harmonyhavenappserver.erdemserhat.com/static/asteriatech/index.html)
 
 ## 🚀 Project Description
 AsteriaTech's Smart Drone Security System is an innovative security solution designed to protect agricultural areas using advanced technologies:
