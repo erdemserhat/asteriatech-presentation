@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Drone Body -->
+        <circle fill="#2563eb" cx="50" cy="50" r="15"/>
+        
+        <!-- Propellers -->
+        <g transform="translate(20, 20)">
+            <circle fill="#1e40af" cx="0" cy="0" r="8"/>
+            <circle fill="#ffffff" cx="0" cy="0" r="3"/>
+        </g>
+        <g transform="translate(80, 20)">
+            <circle fill="#1e40af" cx="0" cy="0" r="8"/>
+            <circle fill="#ffffff" cx="0" cy="0" r="3"/>
+        </g>
+        <g transform="translate(20, 80)">
+            <circle fill="#1e40af" cx="0" cy="0" r="8"/>
+            <circle fill="#ffffff" cx="0" cy="0" r="3"/>
+        </g>
+        <g transform="translate(80, 80)">
+            <circle fill="#1e40af" cx="0" cy="0" r="8"/>
+            <circle fill="#ffffff" cx="0" cy="0" r="3"/>
+        </g>
+        
+        <!-- Arms -->
+        <line x1="35" y1="35" x2="20" y2="20" stroke="#2563eb" stroke-width="3"/>
+        <line x1="65" y1="35" x2="80" y2="20" stroke="#2563eb" stroke-width="3"/>
+        <line x1="35" y1="65" x2="20" y2="80" stroke="#2563eb" stroke-width="3"/>
+        <line x1="65" y1="65" x2="80" y2="80" stroke="#2563eb" stroke-width="3"/>
+        
+        <!-- Camera -->
+        <circle fill="#1e293b" cx="50" cy="50" r="5"/>
+        <circle fill="#ffffff" cx="48" cy="48" r="2"/>
+    </g>
+</svg> 
